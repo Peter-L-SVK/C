@@ -15,6 +15,5 @@ int main()
 
 int fakt(int n)
 {
-  
   return ((n <= 0) ? 1 : n * fakt(n - 1));
 }

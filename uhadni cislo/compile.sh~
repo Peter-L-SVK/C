@@ -1,8 +1,0 @@
-#!/bin/bash
-
-gcc -c gues2.c funct.c
-read -p "zadaj nazov programu: " meno
-gcc -o $meno gues2.o funct.o
-echo "Hotovo."
-
-exit 0

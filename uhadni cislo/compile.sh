@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 gcc -c guess2.c funct.c
 read -p "zadaj nazov programu: " meno

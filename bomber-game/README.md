@@ -3,7 +3,8 @@
 
 A terminal-based bombing game written in C using ncurses. Control a plane that drops bombs to destroy the city below!
 
-![Gameplay Demo](demo.png) *(Bomber running)*
+![Gameplay Demo](demo.png) 
+<br>*(Bomber running)*
 
 ## Features
 - **Zig-zag bomber movement** with directional flipping

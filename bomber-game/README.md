@@ -5,7 +5,7 @@ A terminal-based bombing game written in C using ncurses. Control a plane that d
 
 Written and teste on Fedora 42 Cinnamon.
 
-![Gameplay Demo](demo.png) 
+![Gameplay Demo](demo.png) <br>
 *(Bomber running)*
 
 ## Features
